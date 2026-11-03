@@ -1,0 +1,6 @@
+# Simulation & Compilation outputs
+*.out
+*.vcd
+sim_*
+*.exe
+obj_dir/
